@@ -13,9 +13,8 @@ To run a demo task for MNIST-SVHN-Fashion, use the following command:
 We found the following libraries helpful in our research. 
 
  - [FID](https://github.com/mseitzer/pytorch-fid/) - computing the FID score
- - [IS](https://github.com/openai/improved-gan/tree/master/inception_score) - computing the Inception Score. 
- - [AutoGAN](https://github.com/TAMU-VITA/AutoGAN) - model architecture for the low resolution experiments experiments
- - [ProGAN](https://github.com/rosinality/progressive-gan-pytorch) - model architecture for the high resolution experiments.
+ - [FSVAE](https://github.com/kamata1729/FullySpikingVAE) - computing the Inception Score. 
+ - [WGAN](https://github.com/caogang/wgan-gp) - model architecture for the low resolution experiments experiments
 
 ---
 
