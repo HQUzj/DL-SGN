@@ -13,8 +13,8 @@ To run a demo task for MNIST-SVHN-Fashion, use the following command:
 We found the following libraries helpful in our research. 
 
  - [FID](https://github.com/mseitzer/pytorch-fid/) - computing the FID score
- - [FSVAE](https://github.com/kamata1729/FullySpikingVAE) - computing the Inception Score. 
- - [WGAN](https://github.com/caogang/wgan-gp) - model architecture for the low resolution experiments experiments
+ - [FSVAE](https://github.com/kamata1729/FullySpikingVAE) - Fully Spiking Variational Autoencoder
+ - [WGAN](https://github.com/caogang/wgan-gp) - Improved Training of Wasserstein GANs
 
 ---
 
